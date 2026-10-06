@@ -1,0 +1,6 @@
+{
+  "name": "NOVA — Creative Web Design Studio & Experience Showcase",
+  "description": "Hyper-realistic showcase and interactive studio builder for luxury, modern, user-defined digital experiences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
